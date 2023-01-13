@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=072ac8&weight=320&size=45&pause=1000&color=9932ccwidth=500&height=61&lines=QA+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=7442C8&width=435&lines=QA+ENGINEER)](https://git.io/typing-svg)
 
 ## Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
