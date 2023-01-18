@@ -15,7 +15,7 @@
 - [Regression Tests Checklist](https://docs.google.com/spreadsheets/d/1if6x3bmDIF2NpP6AH_YkGnv7N_JLslZw7rJtpKusqjE/edit?usp=sharing)
 - [End to End Tests Test Cases](https://docs.google.com/spreadsheets/d/1ilVkSBrvHxpfMvRM4Z9HH55oGEOE8MvOqnOxkn1mhLo/edit?usp=sharing)
 - [Postman Requests](https://github.com/mariavolok/postman)
-
+- [Smoke Tests Checklist](https://docs.google.com/spreadsheets/d/1kywQfHIfmLZ04Rb34ZgHHQAICXlXrupldRb-CPt1k2w/edit?usp=sharing)
 
 
 
