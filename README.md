@@ -16,7 +16,7 @@
 - [End to End Tests Test Cases](https://docs.google.com/spreadsheets/d/1ilVkSBrvHxpfMvRM4Z9HH55oGEOE8MvOqnOxkn1mhLo/edit?usp=sharing)
 - [Postman Requests](https://github.com/mariavolok/postman)
 - [Smoke Tests Checklist](https://docs.google.com/spreadsheets/d/1kywQfHIfmLZ04Rb34ZgHHQAICXlXrupldRb-CPt1k2w/edit?usp=sharing)
-
+- [Bug report](https://docs.google.com/spreadsheets/d/1a2ttIWQCDSU4eQTTp9dlIjfnsiFC9r7dKz6iP8AnyF8/edit?usp=sharing)
 
 
 
